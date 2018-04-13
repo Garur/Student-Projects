@@ -4,9 +4,9 @@ Source code of projects developed while studying Games and Apps Development.
 The projects contained in this repository are projects where I was the main programmer, most of the code was been written by me while learning the languages and the technologies.
  
 List of projects:
-1- Portal Seekers Game client;
-2- Portal Seekers Matchmaking Server
-3- Generic Game Engine 
+- Portal Seekers Game client;
+- Portal Seekers Matchmaking Server
+- Generic Game Engine 
 
 
 ## Portal Seekers Game Client
