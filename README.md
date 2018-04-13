@@ -11,26 +11,39 @@ List of projects:
 
 ## Portal Seekers Game Client
 
-**Genre**: Online multiplayer asymmetric action puzzle game. \n
-**Technologies**: Devoloped in Unreal and C++. \n
-**Date**: Sep 2017 - Jan 2018 \n
-**Team size**: 2 \n
+**Genre**: Online multiplayer asymmetric action puzzle game. 
+
+**Technologies**: Devoloped in Unreal and C++. 
+
+**Date**: Sep 2017 - Jan 2018 
+
+**Team size**: 2 
+
 **Details**: I was responsible for all the network communication. P2P model with UDP connections for gameplay and client-server with TCP connection for matchmaking.
 
 
 ## Portal Seekers Matchmaking Server
 
-**Genre**: Matchmaking server for the game Portal Seekers. \n
-**Technologies**: Devoloped in C++. \n
-**Date**: Sep 2017 - Jan 2018 \n
-**Team size**: 1 \n
-**Details**: Part of the Portal Seekers project. I am responsible for all the code. Besides the matchmaking, the server offers a relay system for clients that cannot connect directly.  \n
+**Genre**: Matchmaking server for the game Portal Seekers. 
+
+**Technologies**: Devoloped in C++. 
+
+**Date**: Sep 2017 - Jan 2018 
+
+**Team size**: 1 
+
+**Details**: Part of the Portal Seekers project. I am responsible for all the code. Besides the matchmaking, the server offers a relay system for clients that cannot connect directly.  
 
 
 ## Generic Game Engine
 
-**Genre**: Entity Component Game Engine \n
-**Technologies**: Devoloped in Monogame and C#. \n
-**Date**: Jan 2018 - Present \n
-**Team size**: 1 \n
-**Details**: Currently in Development \n
+**Genre**: Entity Component Game Engine 
+
+**Technologies**: Devoloped in Monogame and C#. 
+
+**Date**: Jan 2018 - Present 
+
+**Team size**: 1 
+
+**Details**: Currently in Development 
+
